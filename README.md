@@ -61,3 +61,21 @@ azure-speech-language-lab/
 │ └── speech-studio-demo.png
 ├── notes/
 │ └── insights.md
+
+---
+
+
+---
+
+## ✍️ Autor
+
+Desenvolvido por **Jules Martins**  
+📧 julesem1970-tech | [github.com/Julesem1970-Tech](https://github.com/Julesem1970-Tech)
+
+---
+
+## 🔗 Recursos
+
+- [Explore Speech Studio - Microsoft Learning](https://learn.microsoft.com/en-us/training/modules/explore-speech-service/)
+- [Analyze text with Language Studio](https://learn.microsoft.com/en-us/training/modules/analyze-text-language-service/)
+- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
